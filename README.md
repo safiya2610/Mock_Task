@@ -1,4 +1,4 @@
-# Mock E-Com Cart (Vibe Commerce) - Full Project (Backend + Frontend)
+# Mock E-Com Cart (Vibe Commerce) 
 
 ## Structure
 - backend/  (Express + MongoDB)
