@@ -1,0 +1,3 @@
+/* minimal resets */
+*{box-sizing:border-box}
+input{display:block;margin:8px 0;padding:8px;width:100%}
