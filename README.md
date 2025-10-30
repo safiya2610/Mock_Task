@@ -5,7 +5,7 @@
 - frontend/ (React)
 
 ## Backend - Run locally
-1. Open terminal in `backend`:
+1. Open terminal in `backend folder`:
    ```
    cd backend
    npm install
@@ -23,7 +23,7 @@
    - POST http://localhost:5000/api/checkout  { cartItems, name, email }
 
 ## Frontend - Run locally
-1. Open terminal in `frontend`:
+1. Open terminal in `frontend folder`:
    ```
    cd frontend
    npm install
